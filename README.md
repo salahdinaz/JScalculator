@@ -1,4 +1,3 @@
-# calculatrice
-# calculatricJs
-# JScalculator
-# JScalculator
+#Calculator
+#JS
+#Math
